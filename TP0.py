@@ -17,7 +17,7 @@ print(f"Le quotient exact de {a} par {b} est de : {a/b}")
 print(f"Le quotient entier de {a} par {b} est de : {a//b}")
 print(f"Le modulo de {a} par {b} est de : {a%b}")
 print(f" {a} à la puissance {b} est de : {a**b}")
-
+adadad
 # Exercice 2 : Affectation multiple 
 # Écrire un programme qui : - Déclare une variable x = 10 
 # - Ajoute 5 à x (en utilisant +=) 
